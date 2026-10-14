@@ -24,4 +24,4 @@ Smart helmet project to detect fog and alert rider for safety.
 Tinkercad: Funky Krunk-Duup
 
 ### Project By:
-Jeya Sharni - Arduino Tinkercad Simulation
+S.Jeya Sharni - Arduino Tinkercad Simulation
