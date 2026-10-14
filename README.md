@@ -1,3 +1,5 @@
+<img width="1252" height="737" alt="circuit diagram" src="https://github.com/user-attachments/assets/239f6f91-473c-4735-b05a-f683a2f0a22c" />
+
 # Fog Detection Helmet - Tinkercad Simulation
 
 Smart helmet project to detect fog and alert rider for safety.
